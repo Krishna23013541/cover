@@ -32,6 +32,7 @@ Publish the website in the LocalHost.
 
 ## PROGRAM:
 
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -143,9 +144,12 @@ Publish the website in the LocalHost.
 </html>
 ```
 
+
 ## OUTPUT:
 
+
 ![alt text](<Screenshot 2024-04-10 222520.png>)
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
