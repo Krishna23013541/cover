@@ -31,6 +31,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -143,6 +144,7 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
+
 ![alt text](<Screenshot 2024-04-10 222520.png>)
 
 ## RESULT:
